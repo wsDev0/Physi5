@@ -3,8 +3,7 @@
    The SolidRect function / class is used to create cubes that can collide and have Physics If wanted to.
 
    Syntax: `var MyRect = new SolidRect(width, height, x, y, type, color)`
-        
-   ***Properties***
+    
    width (w) - the width of the rectangle (float)
 
    height (h) - the height of the rectangle (float)
