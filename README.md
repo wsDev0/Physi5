@@ -1,8 +1,8 @@
-# P5.simulate
+# Physi5
 ----------------
 ***WARNING, THIS PACKAGE IS STILL IN DEVELOPEMENT. YOU MIGHT NOT WANT TO USE IT UNTIL v 1.0.0.0 COMES OUT!***
 
-P5.simulate, an "in developement" physics package for p5.js
+Physi5, an "in developement" physics package for p5js
 
 
 # Example
