@@ -326,7 +326,7 @@ p5.prototype.SolidRect = function(w=0,h=0,x=0,y=0,t="Default", c=color(255,255,2
         this.Physics.velocityY = 0;
         }
   }
-  this.GetVelocity = function(){
+  this.getVelocity = function(){
     return {x: this.Physics.velocityX, y: this.Physics.velocityY};
   }
   this.CollisionCheck = function() {
@@ -376,5 +376,4 @@ p5.prototype.SolidRect = function(w=0,h=0,x=0,y=0,t="Default", c=color(255,255,2
 window.onkeydown = window.onkeyup = function(e){
     e = e || event; 
     keyMap[e.keyCode] = e.type == 'keydown';
-    
 }
