@@ -4,6 +4,8 @@
 
 Physi5, an "in developement" physics package for p5js
 
+Look in the "Documentation" folder for the Documentation
+
 
 # Example
 ----------------
