@@ -6,10 +6,18 @@ Physi5, an "in developement" physics package for p5js
 
 Look in the "Documentation" folder for the Documentation
 
+# In Developement
+
+Circles (SolidCircle)
+
+Circles Colision with squares.
+
+Better Gravity / more realistic.
+
+Better Collision (may take while)
 
 # Example
-----------------
-***Example***
+
 This is an example of what this can do so far:
 
 https://editor.p5js.org/wsDev/full/dBoFKv1JL
